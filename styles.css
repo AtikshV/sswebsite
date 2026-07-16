@@ -269,7 +269,11 @@ img {
 .about-hero .wrap {
   display: block;
   text-align: center;
-  padding-bottom: 1rem;
+  padding-bottom: 1.5rem;
+}
+
+.about-hero h1 {
+  margin-bottom: 0;
 }
 
 .about-hero .logo-mark {
@@ -279,7 +283,7 @@ img {
 .about-content {
   max-width: 680px;
   margin: 0 auto;
-  padding: 1rem 0 5.5rem;
+  padding: 0 0 3rem;
 }
 
 .about-banner {
@@ -290,27 +294,28 @@ img {
   margin-bottom: 2.5rem;
 }
 
-.about-content p {
+.about-content p:not(.signature) {
   color: var(--text-muted);
+  font-size: 1.15rem;
 }
 
 .signature {
   font-family: 'Marcellus', Georgia, serif;
   font-style: italic;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   margin-top: 2rem;
   color: var(--text);
 }
 
 .about-cta {
   text-align: center;
-  margin-top: 3rem;
+  margin-top: 2.5rem;
 }
 
 /* Footer */
 
 .site-footer {
-  padding: 4rem 0 5rem;
+  padding: 2.5rem 0 3.5rem;
   text-align: center;
 }
 
