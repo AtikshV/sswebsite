@@ -1,0 +1,29 @@
+Images referenced in index.html / about.html but not yet added.
+Download each URL below and save it under the filename shown, in this
+images/ folder, then this file can be deleted.
+
+logo.png
+  Used in: header + footer on both pages
+  Source (Wix logo, alt "Still-n-Savour-logo"):
+  https://static.wixstatic.com/media/cf1149_d3e44a2d1411474abe8bcefa243e1deb~mv2.png
+
+practice.jpg
+  Used in: index.html, "Practice Guide" card
+  https://static.wixstatic.com/media/cf1149_908f9644e0744354ac6bf59fc2516e64~mv2.jpg
+
+sessions.jpg
+  Used in: index.html, "Book Sessions" card
+  https://static.wixstatic.com/media/cf1149_7fe25b8b9f1444ecb401b289022f8f67~mv2.jpg
+
+kitchen.jpg
+  Used in: index.html, "Savour Kitchen" card
+  https://static.wixstatic.com/media/cf1149_58003ae7243f4c9dad2244242cb1b62a~mv2.jpg
+
+Not currently referenced in the HTML, but also found on the live site
+if you want a hero/banner image:
+  https://static.wixstatic.com/media/cf1149_4ad3d9c0008245b6b0c5b9a8119046a1~mv2.jpg
+
+Note: the four *.jpg files above are all generic Wix AI-generated stock
+photos (all literally named "ai-generated-IMAGE.jpg" in Wix's own data),
+not real photos of your practice or food. Worth swapping for your own
+photography when you have it, rather than re-hosting Wix's placeholders.
