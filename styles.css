@@ -282,6 +282,14 @@ img {
   padding: 1rem 0 5.5rem;
 }
 
+.about-banner {
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-bottom: 2.5rem;
+}
+
 .about-content p {
   color: var(--text-muted);
 }
