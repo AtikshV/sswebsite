@@ -307,6 +307,43 @@ img {
   font-size: 1.15rem;
 }
 
+/* Legal / privacy page */
+
+.legal-hero .wrap {
+  display: block;
+  text-align: center;
+  padding-bottom: 1.5rem;
+}
+
+.legal-hero h1 {
+  margin-bottom: 0.4em;
+}
+
+.legal-hero .logo-mark {
+  margin-bottom: 1.25rem;
+}
+
+.legal-updated {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.legal-content {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 0 4rem;
+}
+
+.legal-content h2 {
+  font-size: 1.3rem;
+  margin-top: 2.25rem;
+}
+
+.legal-content p {
+  color: var(--text-muted);
+  font-size: 1.05rem;
+}
+
 .signature {
   font-family: 'Marcellus', Georgia, serif;
   font-style: italic;
