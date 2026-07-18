@@ -13,8 +13,6 @@
   --circle-tan-line: #8a7c62;
   --circle-cream: #e6e1d4;
   --circle-cream-line: #6b6455;
-  --circle-blush: #f7cbbe;
-  --circle-blush-line: #8a3f2f;
   --border: #e7e1d3;
   --max-width: 1200px;
 }
@@ -248,10 +246,6 @@ img {
 
 .icon-cream {
   background: var(--circle-cream);
-}
-
-.icon-blush {
-  background: var(--circle-blush);
 }
 
 .card h3 {
