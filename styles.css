@@ -12,7 +12,7 @@
   --circle-tan: #cac0ac;
   --circle-tan-line: #8a7c62;
   --circle-cream: #e6e1d4;
-  --circle-cream-line: #6b6455;
+  --circle-cream-line: #9c9280;
   --border: #e7e1d3;
   --max-width: 1200px;
 }
@@ -242,10 +242,12 @@ img {
 
 .icon-tan {
   background: var(--circle-tan);
+  color: var(--circle-tan-line);
 }
 
 .icon-cream {
   background: var(--circle-cream);
+  color: var(--circle-cream-line);
 }
 
 .card h3 {
